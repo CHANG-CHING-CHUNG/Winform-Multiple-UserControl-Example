@@ -1,0 +1,13 @@
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\bin\Debug\tyerRecyclingStation.exe.config
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\bin\Debug\tyerRecyclingStation.exe
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\bin\Debug\tyerRecyclingStation.pdb
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.csprojAssemblyReference.cache
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.Form1.resources
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.MainContentControl.resources
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.Properties.Resources.resources
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.SecondContentControl.resources
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.csproj.GenerateResource.cache
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.csproj.CoreCompileInputs.cache
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.exe
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.pdb
+C:\Users\dennis\source\repos\tyerRecyclingStation\tyerRecyclingStation\obj\Debug\tyerRecyclingStation.PopupForm.resources
